@@ -1,0 +1,5 @@
+if(EXISTS "/15-445/bustub-master/build-release/test/clock_replacer_test[1]_tests.cmake")
+  include("/15-445/bustub-master/build-release/test/clock_replacer_test[1]_tests.cmake")
+else()
+  add_test(clock_replacer_test_NOT_BUILT clock_replacer_test_NOT_BUILT)
+endif()

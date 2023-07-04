@@ -1,0 +1,5 @@
+if(EXISTS "/15-445/bustub-master/build-release/test/catalog_test[1]_tests.cmake")
+  include("/15-445/bustub-master/build-release/test/catalog_test[1]_tests.cmake")
+else()
+  add_test(catalog_test_NOT_BUILT catalog_test_NOT_BUILT)
+endif()

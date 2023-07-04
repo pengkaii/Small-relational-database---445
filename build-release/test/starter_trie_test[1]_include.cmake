@@ -1,0 +1,5 @@
+if(EXISTS "/15-445/bustub-master/build-release/test/starter_trie_test[1]_tests.cmake")
+  include("/15-445/bustub-master/build-release/test/starter_trie_test[1]_tests.cmake")
+else()
+  add_test(starter_trie_test_NOT_BUILT starter_trie_test_NOT_BUILT)
+endif()

@@ -1,0 +1,757 @@
+[
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/binder.cpp.o -c /15-445/bustub-master/src/binder/binder.cpp",
+  "file": "/15-445/bustub-master/src/binder/binder.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/bind_create.cpp.o -c /15-445/bustub-master/src/binder/bind_create.cpp",
+  "file": "/15-445/bustub-master/src/binder/bind_create.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/bind_insert.cpp.o -c /15-445/bustub-master/src/binder/bind_insert.cpp",
+  "file": "/15-445/bustub-master/src/binder/bind_insert.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/bind_select.cpp.o -c /15-445/bustub-master/src/binder/bind_select.cpp",
+  "file": "/15-445/bustub-master/src/binder/bind_select.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/bind_variable.cpp.o -c /15-445/bustub-master/src/binder/bind_variable.cpp",
+  "file": "/15-445/bustub-master/src/binder/bind_variable.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/bound_statement.cpp.o -c /15-445/bustub-master/src/binder/bound_statement.cpp",
+  "file": "/15-445/bustub-master/src/binder/bound_statement.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/fmt_impl.cpp.o -c /15-445/bustub-master/src/binder/fmt_impl.cpp",
+  "file": "/15-445/bustub-master/src/binder/fmt_impl.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/keyword_helper.cpp.o -c /15-445/bustub-master/src/binder/keyword_helper.cpp",
+  "file": "/15-445/bustub-master/src/binder/keyword_helper.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/node_tag_to_string.cpp.o -c /15-445/bustub-master/src/binder/node_tag_to_string.cpp",
+  "file": "/15-445/bustub-master/src/binder/node_tag_to_string.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_binder.dir/transformer.cpp.o -c /15-445/bustub-master/src/binder/transformer.cpp",
+  "file": "/15-445/bustub-master/src/binder/transformer.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder/statement",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_statement.dir/create_statement.cpp.o -c /15-445/bustub-master/src/binder/statement/create_statement.cpp",
+  "file": "/15-445/bustub-master/src/binder/statement/create_statement.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder/statement",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_statement.dir/delete_statement.cpp.o -c /15-445/bustub-master/src/binder/statement/delete_statement.cpp",
+  "file": "/15-445/bustub-master/src/binder/statement/delete_statement.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder/statement",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_statement.dir/explain_statement.cpp.o -c /15-445/bustub-master/src/binder/statement/explain_statement.cpp",
+  "file": "/15-445/bustub-master/src/binder/statement/explain_statement.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder/statement",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_statement.dir/index_statement.cpp.o -c /15-445/bustub-master/src/binder/statement/index_statement.cpp",
+  "file": "/15-445/bustub-master/src/binder/statement/index_statement.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder/statement",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_statement.dir/insert_statement.cpp.o -c /15-445/bustub-master/src/binder/statement/insert_statement.cpp",
+  "file": "/15-445/bustub-master/src/binder/statement/insert_statement.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder/statement",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_statement.dir/select_statement.cpp.o -c /15-445/bustub-master/src/binder/statement/select_statement.cpp",
+  "file": "/15-445/bustub-master/src/binder/statement/select_statement.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/binder/statement",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_statement.dir/update_statement.cpp.o -c /15-445/bustub-master/src/binder/statement/update_statement.cpp",
+  "file": "/15-445/bustub-master/src/binder/statement/update_statement.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/buffer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_buffer.dir/buffer_pool_manager_instance.cpp.o -c /15-445/bustub-master/src/buffer/buffer_pool_manager_instance.cpp",
+  "file": "/15-445/bustub-master/src/buffer/buffer_pool_manager_instance.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/buffer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_buffer.dir/clock_replacer.cpp.o -c /15-445/bustub-master/src/buffer/clock_replacer.cpp",
+  "file": "/15-445/bustub-master/src/buffer/clock_replacer.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/buffer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_buffer.dir/lru_replacer.cpp.o -c /15-445/bustub-master/src/buffer/lru_replacer.cpp",
+  "file": "/15-445/bustub-master/src/buffer/lru_replacer.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/buffer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_buffer.dir/lru_k_replacer.cpp.o -c /15-445/bustub-master/src/buffer/lru_k_replacer.cpp",
+  "file": "/15-445/bustub-master/src/buffer/lru_k_replacer.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/catalog",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_catalog.dir/column.cpp.o -c /15-445/bustub-master/src/catalog/column.cpp",
+  "file": "/15-445/bustub-master/src/catalog/column.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/catalog",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_catalog.dir/table_generator.cpp.o -c /15-445/bustub-master/src/catalog/table_generator.cpp",
+  "file": "/15-445/bustub-master/src/catalog/table_generator.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/catalog",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_catalog.dir/schema.cpp.o -c /15-445/bustub-master/src/catalog/schema.cpp",
+  "file": "/15-445/bustub-master/src/catalog/schema.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/common",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_common.dir/bustub_instance.cpp.o -c /15-445/bustub-master/src/common/bustub_instance.cpp",
+  "file": "/15-445/bustub-master/src/common/bustub_instance.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/common",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_common.dir/config.cpp.o -c /15-445/bustub-master/src/common/config.cpp",
+  "file": "/15-445/bustub-master/src/common/config.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/common",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_common.dir/util/string_util.cpp.o -c /15-445/bustub-master/src/common/util/string_util.cpp",
+  "file": "/15-445/bustub-master/src/common/util/string_util.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/concurrency",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_concurrency.dir/lock_manager.cpp.o -c /15-445/bustub-master/src/concurrency/lock_manager.cpp",
+  "file": "/15-445/bustub-master/src/concurrency/lock_manager.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/concurrency",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_concurrency.dir/transaction_manager.cpp.o -c /15-445/bustub-master/src/concurrency/transaction_manager.cpp",
+  "file": "/15-445/bustub-master/src/concurrency/transaction_manager.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/container/disk/hash",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_container_disk_hash.dir/disk_extendible_hash_table.cpp.o -c /15-445/bustub-master/src/container/disk/hash/disk_extendible_hash_table.cpp",
+  "file": "/15-445/bustub-master/src/container/disk/hash/disk_extendible_hash_table.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/container/disk/hash",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_container_disk_hash.dir/linear_probe_hash_table.cpp.o -c /15-445/bustub-master/src/container/disk/hash/linear_probe_hash_table.cpp",
+  "file": "/15-445/bustub-master/src/container/disk/hash/linear_probe_hash_table.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/container/hash",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_container_hash.dir/extendible_hash_table.cpp.o -c /15-445/bustub-master/src/container/hash/extendible_hash_table.cpp",
+  "file": "/15-445/bustub-master/src/container/hash/extendible_hash_table.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/aggregation_executor.cpp.o -c /15-445/bustub-master/src/execution/aggregation_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/aggregation_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/delete_executor.cpp.o -c /15-445/bustub-master/src/execution/delete_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/delete_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/executor_factory.cpp.o -c /15-445/bustub-master/src/execution/executor_factory.cpp",
+  "file": "/15-445/bustub-master/src/execution/executor_factory.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/filter_executor.cpp.o -c /15-445/bustub-master/src/execution/filter_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/filter_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/fmt_impl.cpp.o -c /15-445/bustub-master/src/execution/fmt_impl.cpp",
+  "file": "/15-445/bustub-master/src/execution/fmt_impl.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/hash_join_executor.cpp.o -c /15-445/bustub-master/src/execution/hash_join_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/hash_join_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/index_scan_executor.cpp.o -c /15-445/bustub-master/src/execution/index_scan_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/index_scan_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/insert_executor.cpp.o -c /15-445/bustub-master/src/execution/insert_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/insert_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/limit_executor.cpp.o -c /15-445/bustub-master/src/execution/limit_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/limit_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/mock_scan_executor.cpp.o -c /15-445/bustub-master/src/execution/mock_scan_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/mock_scan_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/nested_index_join_executor.cpp.o -c /15-445/bustub-master/src/execution/nested_index_join_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/nested_index_join_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/nested_loop_join_executor.cpp.o -c /15-445/bustub-master/src/execution/nested_loop_join_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/nested_loop_join_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/plan_node.cpp.o -c /15-445/bustub-master/src/execution/plan_node.cpp",
+  "file": "/15-445/bustub-master/src/execution/plan_node.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/projection_executor.cpp.o -c /15-445/bustub-master/src/execution/projection_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/projection_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/seq_scan_executor.cpp.o -c /15-445/bustub-master/src/execution/seq_scan_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/seq_scan_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/sort_executor.cpp.o -c /15-445/bustub-master/src/execution/sort_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/sort_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/topn_executor.cpp.o -c /15-445/bustub-master/src/execution/topn_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/topn_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/update_executor.cpp.o -c /15-445/bustub-master/src/execution/update_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/update_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/execution",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_execution.dir/values_executor.cpp.o -c /15-445/bustub-master/src/execution/values_executor.cpp",
+  "file": "/15-445/bustub-master/src/execution/values_executor.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/recovery",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_recovery.dir/checkpoint_manager.cpp.o -c /15-445/bustub-master/src/recovery/checkpoint_manager.cpp",
+  "file": "/15-445/bustub-master/src/recovery/checkpoint_manager.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/recovery",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_recovery.dir/log_manager.cpp.o -c /15-445/bustub-master/src/recovery/log_manager.cpp",
+  "file": "/15-445/bustub-master/src/recovery/log_manager.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/recovery",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_recovery.dir/log_recovery.cpp.o -c /15-445/bustub-master/src/recovery/log_recovery.cpp",
+  "file": "/15-445/bustub-master/src/recovery/log_recovery.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/disk",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_disk.dir/disk_manager.cpp.o -c /15-445/bustub-master/src/storage/disk/disk_manager.cpp",
+  "file": "/15-445/bustub-master/src/storage/disk/disk_manager.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/disk",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_disk.dir/disk_manager_memory.cpp.o -c /15-445/bustub-master/src/storage/disk/disk_manager_memory.cpp",
+  "file": "/15-445/bustub-master/src/storage/disk/disk_manager_memory.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/index",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_index.dir/b_plus_tree_index.cpp.o -c /15-445/bustub-master/src/storage/index/b_plus_tree_index.cpp",
+  "file": "/15-445/bustub-master/src/storage/index/b_plus_tree_index.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/index",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_index.dir/b_plus_tree.cpp.o -c /15-445/bustub-master/src/storage/index/b_plus_tree.cpp",
+  "file": "/15-445/bustub-master/src/storage/index/b_plus_tree.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/index",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_index.dir/extendible_hash_table_index.cpp.o -c /15-445/bustub-master/src/storage/index/extendible_hash_table_index.cpp",
+  "file": "/15-445/bustub-master/src/storage/index/extendible_hash_table_index.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/index",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_index.dir/index_iterator.cpp.o -c /15-445/bustub-master/src/storage/index/index_iterator.cpp",
+  "file": "/15-445/bustub-master/src/storage/index/index_iterator.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/index",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_index.dir/linear_probe_hash_table_index.cpp.o -c /15-445/bustub-master/src/storage/index/linear_probe_hash_table_index.cpp",
+  "file": "/15-445/bustub-master/src/storage/index/linear_probe_hash_table_index.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/page",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_page.dir/b_plus_tree_internal_page.cpp.o -c /15-445/bustub-master/src/storage/page/b_plus_tree_internal_page.cpp",
+  "file": "/15-445/bustub-master/src/storage/page/b_plus_tree_internal_page.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/page",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_page.dir/b_plus_tree_leaf_page.cpp.o -c /15-445/bustub-master/src/storage/page/b_plus_tree_leaf_page.cpp",
+  "file": "/15-445/bustub-master/src/storage/page/b_plus_tree_leaf_page.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/page",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_page.dir/b_plus_tree_page.cpp.o -c /15-445/bustub-master/src/storage/page/b_plus_tree_page.cpp",
+  "file": "/15-445/bustub-master/src/storage/page/b_plus_tree_page.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/page",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_page.dir/hash_table_block_page.cpp.o -c /15-445/bustub-master/src/storage/page/hash_table_block_page.cpp",
+  "file": "/15-445/bustub-master/src/storage/page/hash_table_block_page.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/page",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_page.dir/hash_table_bucket_page.cpp.o -c /15-445/bustub-master/src/storage/page/hash_table_bucket_page.cpp",
+  "file": "/15-445/bustub-master/src/storage/page/hash_table_bucket_page.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/page",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_page.dir/hash_table_directory_page.cpp.o -c /15-445/bustub-master/src/storage/page/hash_table_directory_page.cpp",
+  "file": "/15-445/bustub-master/src/storage/page/hash_table_directory_page.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/page",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_page.dir/header_page.cpp.o -c /15-445/bustub-master/src/storage/page/header_page.cpp",
+  "file": "/15-445/bustub-master/src/storage/page/header_page.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/page",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_page.dir/table_page.cpp.o -c /15-445/bustub-master/src/storage/page/table_page.cpp",
+  "file": "/15-445/bustub-master/src/storage/page/table_page.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/table",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_table.dir/table_heap.cpp.o -c /15-445/bustub-master/src/storage/table/table_heap.cpp",
+  "file": "/15-445/bustub-master/src/storage/table/table_heap.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/table",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_table.dir/table_iterator.cpp.o -c /15-445/bustub-master/src/storage/table/table_iterator.cpp",
+  "file": "/15-445/bustub-master/src/storage/table/table_iterator.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/storage/table",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_storage_table.dir/tuple.cpp.o -c /15-445/bustub-master/src/storage/table/tuple.cpp",
+  "file": "/15-445/bustub-master/src/storage/table/tuple.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/bigint_type.cpp.o -c /15-445/bustub-master/src/type/bigint_type.cpp",
+  "file": "/15-445/bustub-master/src/type/bigint_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/boolean_type.cpp.o -c /15-445/bustub-master/src/type/boolean_type.cpp",
+  "file": "/15-445/bustub-master/src/type/boolean_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/decimal_type.cpp.o -c /15-445/bustub-master/src/type/decimal_type.cpp",
+  "file": "/15-445/bustub-master/src/type/decimal_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/integer_parent_type.cpp.o -c /15-445/bustub-master/src/type/integer_parent_type.cpp",
+  "file": "/15-445/bustub-master/src/type/integer_parent_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/integer_type.cpp.o -c /15-445/bustub-master/src/type/integer_type.cpp",
+  "file": "/15-445/bustub-master/src/type/integer_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/smallint_type.cpp.o -c /15-445/bustub-master/src/type/smallint_type.cpp",
+  "file": "/15-445/bustub-master/src/type/smallint_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/timestamp_type.cpp.o -c /15-445/bustub-master/src/type/timestamp_type.cpp",
+  "file": "/15-445/bustub-master/src/type/timestamp_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/tinyint_type.cpp.o -c /15-445/bustub-master/src/type/tinyint_type.cpp",
+  "file": "/15-445/bustub-master/src/type/tinyint_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/type.cpp.o -c /15-445/bustub-master/src/type/type.cpp",
+  "file": "/15-445/bustub-master/src/type/type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/value.cpp.o -c /15-445/bustub-master/src/type/value.cpp",
+  "file": "/15-445/bustub-master/src/type/value.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/type",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_type.dir/varlen_type.cpp.o -c /15-445/bustub-master/src/type/varlen_type.cpp",
+  "file": "/15-445/bustub-master/src/type/varlen_type.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/planner",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_planner.dir/expression_factory.cpp.o -c /15-445/bustub-master/src/planner/expression_factory.cpp",
+  "file": "/15-445/bustub-master/src/planner/expression_factory.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/planner",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_planner.dir/plan_aggregation.cpp.o -c /15-445/bustub-master/src/planner/plan_aggregation.cpp",
+  "file": "/15-445/bustub-master/src/planner/plan_aggregation.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/planner",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_planner.dir/plan_expression.cpp.o -c /15-445/bustub-master/src/planner/plan_expression.cpp",
+  "file": "/15-445/bustub-master/src/planner/plan_expression.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/planner",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_planner.dir/plan_insert.cpp.o -c /15-445/bustub-master/src/planner/plan_insert.cpp",
+  "file": "/15-445/bustub-master/src/planner/plan_insert.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/planner",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_planner.dir/plan_table_ref.cpp.o -c /15-445/bustub-master/src/planner/plan_table_ref.cpp",
+  "file": "/15-445/bustub-master/src/planner/plan_table_ref.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/planner",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_planner.dir/plan_select.cpp.o -c /15-445/bustub-master/src/planner/plan_select.cpp",
+  "file": "/15-445/bustub-master/src/planner/plan_select.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/planner",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_planner.dir/planner.cpp.o -c /15-445/bustub-master/src/planner/planner.cpp",
+  "file": "/15-445/bustub-master/src/planner/planner.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/primer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_primer.dir/p0_trie.cpp.o -c /15-445/bustub-master/src/primer/p0_trie.cpp",
+  "file": "/15-445/bustub-master/src/primer/p0_trie.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/eliminate_true_filter.cpp.o -c /15-445/bustub-master/src/optimizer/eliminate_true_filter.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/eliminate_true_filter.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/merge_projection.cpp.o -c /15-445/bustub-master/src/optimizer/merge_projection.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/merge_projection.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/merge_filter_nlj.cpp.o -c /15-445/bustub-master/src/optimizer/merge_filter_nlj.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/merge_filter_nlj.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/merge_filter_scan.cpp.o -c /15-445/bustub-master/src/optimizer/merge_filter_scan.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/merge_filter_scan.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/nlj_as_hash_join.cpp.o -c /15-445/bustub-master/src/optimizer/nlj_as_hash_join.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/nlj_as_hash_join.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/nlj_as_index_join.cpp.o -c /15-445/bustub-master/src/optimizer/nlj_as_index_join.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/nlj_as_index_join.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/optimizer.cpp.o -c /15-445/bustub-master/src/optimizer/optimizer.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/optimizer.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/optimizer_custom_rules.cpp.o -c /15-445/bustub-master/src/optimizer/optimizer_custom_rules.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/optimizer_custom_rules.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/order_by_index_scan.cpp.o -c /15-445/bustub-master/src/optimizer/order_by_index_scan.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/order_by_index_scan.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/src/optimizer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_optimizer.dir/sort_limit_as_topn.cpp.o -c /15-445/bustub-master/src/optimizer/sort_limit_as_topn.cpp",
+  "file": "/15-445/bustub-master/src/optimizer/sort_limit_as_topn.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/lock_manager_compability_test.dir/concurrency/lock_manager_compability_test.cpp.o -c /15-445/bustub-master/test/concurrency/lock_manager_compability_test.cpp",
+  "file": "/15-445/bustub-master/test/concurrency/lock_manager_compability_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/hash_table_test.dir/container/disk/hash/hash_table_test.cpp.o -c /15-445/bustub-master/test/container/disk/hash/hash_table_test.cpp",
+  "file": "/15-445/bustub-master/test/container/disk/hash/hash_table_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/lock_manager_isolation_test.dir/concurrency/lock_manager_isolation_test.cpp.o -c /15-445/bustub-master/test/concurrency/lock_manager_isolation_test.cpp",
+  "file": "/15-445/bustub-master/test/concurrency/lock_manager_isolation_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/binder_test.dir/binder/binder_test.cpp.o -c /15-445/bustub-master/test/binder/binder_test.cpp",
+  "file": "/15-445/bustub-master/test/binder/binder_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/b_plus_tree_concurrent_test.dir/storage/b_plus_tree_concurrent_test.cpp.o -c /15-445/bustub-master/test/storage/b_plus_tree_concurrent_test.cpp",
+  "file": "/15-445/bustub-master/test/storage/b_plus_tree_concurrent_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/buffer_pool_manager_instance_test.dir/buffer/buffer_pool_manager_instance_test.cpp.o -c /15-445/bustub-master/test/buffer/buffer_pool_manager_instance_test.cpp",
+  "file": "/15-445/bustub-master/test/buffer/buffer_pool_manager_instance_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/extendible_hash_table_test.dir/container/hash/extendible_hash_table_test.cpp.o -c /15-445/bustub-master/test/container/hash/extendible_hash_table_test.cpp",
+  "file": "/15-445/bustub-master/test/container/hash/extendible_hash_table_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/catalog_test.dir/catalog/catalog_test.cpp.o -c /15-445/bustub-master/test/catalog/catalog_test.cpp",
+  "file": "/15-445/bustub-master/test/catalog/catalog_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/lock_manager_test.dir/concurrency/lock_manager_test.cpp.o -c /15-445/bustub-master/test/concurrency/lock_manager_test.cpp",
+  "file": "/15-445/bustub-master/test/concurrency/lock_manager_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/lru_k_replacer_test.dir/buffer/lru_k_replacer_test.cpp.o -c /15-445/bustub-master/test/buffer/lru_k_replacer_test.cpp",
+  "file": "/15-445/bustub-master/test/buffer/lru_k_replacer_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/deadlock_detection_test.dir/concurrency/deadlock_detection_test.cpp.o -c /15-445/bustub-master/test/concurrency/deadlock_detection_test.cpp",
+  "file": "/15-445/bustub-master/test/concurrency/deadlock_detection_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/lru_replacer_test.dir/buffer/lru_replacer_test.cpp.o -c /15-445/bustub-master/test/buffer/lru_replacer_test.cpp",
+  "file": "/15-445/bustub-master/test/buffer/lru_replacer_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/b_plus_tree_contention_test.dir/storage/b_plus_tree_contention_test.cpp.o -c /15-445/bustub-master/test/storage/b_plus_tree_contention_test.cpp",
+  "file": "/15-445/bustub-master/test/storage/b_plus_tree_contention_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/hash_table_page_test.dir/container/disk/hash/hash_table_page_test.cpp.o -c /15-445/bustub-master/test/container/disk/hash/hash_table_page_test.cpp",
+  "file": "/15-445/bustub-master/test/container/disk/hash/hash_table_page_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/starter_trie_test.dir/primer/starter_trie_test.cpp.o -c /15-445/bustub-master/test/primer/starter_trie_test.cpp",
+  "file": "/15-445/bustub-master/test/primer/starter_trie_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/tuple_test.dir/table/tuple_test.cpp.o -c /15-445/bustub-master/test/table/tuple_test.cpp",
+  "file": "/15-445/bustub-master/test/table/tuple_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/recovery_test.dir/recovery/recovery_test.cpp.o -c /15-445/bustub-master/test/recovery/recovery_test.cpp",
+  "file": "/15-445/bustub-master/test/recovery/recovery_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/clock_replacer_test.dir/buffer/clock_replacer_test.cpp.o -c /15-445/bustub-master/test/buffer/clock_replacer_test.cpp",
+  "file": "/15-445/bustub-master/test/buffer/clock_replacer_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/b_plus_tree_insert_test.dir/storage/b_plus_tree_insert_test.cpp.o -c /15-445/bustub-master/test/storage/b_plus_tree_insert_test.cpp",
+  "file": "/15-445/bustub-master/test/storage/b_plus_tree_insert_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/rwlatch_test.dir/common/rwlatch_test.cpp.o -c /15-445/bustub-master/test/common/rwlatch_test.cpp",
+  "file": "/15-445/bustub-master/test/common/rwlatch_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/transaction_test.dir/concurrency/transaction_test.cpp.o -c /15-445/bustub-master/test/concurrency/transaction_test.cpp",
+  "file": "/15-445/bustub-master/test/concurrency/transaction_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/b_plus_tree_delete_test.dir/storage/b_plus_tree_delete_test.cpp.o -c /15-445/bustub-master/test/storage/b_plus_tree_delete_test.cpp",
+  "file": "/15-445/bustub-master/test/storage/b_plus_tree_delete_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/disk_manager_test.dir/storage/disk_manager_test.cpp.o -c /15-445/bustub-master/test/storage/disk_manager_test.cpp",
+  "file": "/15-445/bustub-master/test/storage/disk_manager_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/tmp_tuple_page_test.dir/storage/tmp_tuple_page_test.cpp.o -c /15-445/bustub-master/test/storage/tmp_tuple_page_test.cpp",
+  "file": "/15-445/bustub-master/test/storage/tmp_tuple_page_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/test",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/type_test.dir/type/type_test.cpp.o -c /15-445/bustub-master/test/type/type_test.cpp",
+  "file": "/15-445/bustub-master/test/type/type_test.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/murmur3",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/bustub_murmur3.dir/MurmurHash3.cpp.o -c /15-445/bustub-master/third_party/murmur3/MurmurHash3.cpp",
+  "file": "/15-445/bustub-master/third_party/murmur3/MurmurHash3.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/postgres_parser.cpp.o -c /15-445/bustub-master/third_party/libpg_query/postgres_parser.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/postgres_parser.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/pg_functions.cpp.o -c /15-445/bustub-master/third_party/libpg_query/pg_functions.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/pg_functions.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/src_backend_parser_parser.cpp.o -c /15-445/bustub-master/third_party/libpg_query/src_backend_parser_parser.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/src_backend_parser_parser.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/src_backend_parser_gram.cpp.o -c /15-445/bustub-master/third_party/libpg_query/src_backend_parser_gram.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/src_backend_parser_gram.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/src_backend_nodes_list.cpp.o -c /15-445/bustub-master/third_party/libpg_query/src_backend_nodes_list.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/src_backend_nodes_list.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/src_backend_parser_scansup.cpp.o -c /15-445/bustub-master/third_party/libpg_query/src_backend_parser_scansup.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/src_backend_parser_scansup.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/src_backend_nodes_makefuncs.cpp.o -c /15-445/bustub-master/third_party/libpg_query/src_backend_nodes_makefuncs.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/src_backend_nodes_makefuncs.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/src_backend_nodes_value.cpp.o -c /15-445/bustub-master/third_party/libpg_query/src_backend_nodes_value.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/src_backend_nodes_value.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/src_backend_parser_scan.cpp.o -c /15-445/bustub-master/third_party/libpg_query/src_backend_parser_scan.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/src_backend_parser_scan.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libpg_query",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC -fvisibility=hidden   -w -std=gnu++17 -o CMakeFiles/duckdb_pg_query.dir/src_common_keywords.cpp.o -c /15-445/bustub-master/third_party/libpg_query/src_common_keywords.cpp",
+  "file": "/15-445/bustub-master/third_party/libpg_query/src_common_keywords.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/googletest/googlemock",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -isystem /15-445/bustub-master/third_party/googletest/googlemock/include -isystem /15-445/bustub-master/third_party/googletest/googlemock -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest  -O3 -DNDEBUG -fPIC   -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /15-445/bustub-master/third_party/googletest/googlemock/src/gmock_main.cc",
+  "file": "/15-445/bustub-master/third_party/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/googletest/googlemock",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/googletest/googlemock/include -I/15-445/bustub-master/third_party/googletest/googlemock -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest  -O3 -DNDEBUG -fPIC   -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /15-445/bustub-master/third_party/googletest/googlemock/src/gmock-all.cc",
+  "file": "/15-445/bustub-master/third_party/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/googletest/googletest",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -isystem /15-445/bustub-master/third_party/googletest/googletest/include -isystem /15-445/bustub-master/third_party/googletest/googletest  -O3 -DNDEBUG -fPIC   -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /15-445/bustub-master/third_party/googletest/googletest/src/gtest_main.cc",
+  "file": "/15-445/bustub-master/third_party/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/googletest/googletest",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/googletest/googletest/include -I/15-445/bustub-master/third_party/googletest/googletest  -O3 -DNDEBUG -fPIC   -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /15-445/bustub-master/third_party/googletest/googletest/src/gtest-all.cc",
+  "file": "/15-445/bustub-master/third_party/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/fmt",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/fmt.dir/src/format.cc.o -c /15-445/bustub-master/third_party/fmt/src/format.cc",
+  "file": "/15-445/bustub-master/third_party/fmt/src/format.cc"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/fmt",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/fmt.dir/src/os.cc.o -c /15-445/bustub-master/third_party/fmt/src/os.cc",
+  "file": "/15-445/bustub-master/third_party/fmt/src/os.cc"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/linenoise",
+  "command": "/usr/bin/clang-12  -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include  -O3 -DNDEBUG -fPIC   -o CMakeFiles/bustub_linenoise.dir/linenoise.c.o   -c /15-445/bustub-master/third_party/linenoise/linenoise.c",
+  "file": "/15-445/bustub-master/third_party/linenoise/linenoise.c"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/libfort/lib",
+  "command": "/usr/bin/clang-12  -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib           -Wall         -Wextra         -Wdouble-promotion         -Wshadow         -Wformat=2         -Wno-variadic-macros         -Wcast-align         -Wstrict-aliasing=2         -Wstrict-overflow=5         -Wfloat-equal         -Wwrite-strings          -Wpedantic -O3  -fPIC   -o CMakeFiles/fort.dir/fort.c.o   -c /15-445/bustub-master/third_party/libfort/lib/fort.c",
+  "file": "/15-445/bustub-master/third_party/libfort/lib/fort.c"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/third_party/utf8proc",
+  "command": "/usr/bin/clang-12 -DUTF8PROC_EXPORTS -DUTF8PROC_STATIC -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/utf8proc/.  -O3 -DNDEBUG -fPIC   -O2 -std=c99 -pedantic -Wall -o CMakeFiles/utf8proc.dir/utf8proc.c.o   -c /15-445/bustub-master/third_party/utf8proc/utf8proc.c",
+  "file": "/15-445/bustub-master/third_party/utf8proc/utf8proc.c"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/tools/shell",
+  "command": "/usr/bin/clang++-12  -DUTF8PROC_STATIC -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib -I/15-445/bustub-master/third_party/utf8proc/.  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/shell.dir/shell.cpp.o -c /15-445/bustub-master/tools/shell/shell.cpp",
+  "file": "/15-445/bustub-master/tools/shell/shell.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/tools/sqllogictest",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/sqllogictest.dir/sqllogictest.cpp.o -c /15-445/bustub-master/tools/sqllogictest/sqllogictest.cpp",
+  "file": "/15-445/bustub-master/tools/sqllogictest/sqllogictest.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/tools/sqllogictest",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/sqllogictest.dir/parser.cpp.o -c /15-445/bustub-master/tools/sqllogictest/parser.cpp",
+  "file": "/15-445/bustub-master/tools/sqllogictest/parser.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/tools/b_plus_tree_printer",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/b_plus_tree_printer.dir/b_plus_tree_printer.cpp.o -c /15-445/bustub-master/tools/b_plus_tree_printer/b_plus_tree_printer.cpp",
+  "file": "/15-445/bustub-master/tools/b_plus_tree_printer/b_plus_tree_printer.cpp"
+},
+{
+  "directory": "/15-445/bustub-master/build-release/tools/terrier_bench",
+  "command": "/usr/bin/clang++-12   -I/15-445/bustub-master/src -I/15-445/bustub-master/src/include -I/15-445/bustub-master/test/include -I/15-445/bustub-master/third_party -I/15-445/bustub-master/third_party/fmt/include -I/15-445/bustub-master/third_party/libpg_query/include -I/15-445/bustub-master/third_party/argparse/include -I/15-445/bustub-master/third_party/libfort/lib  -O3 -DNDEBUG -fPIE   -std=gnu++17 -o CMakeFiles/terrier-bench.dir/terrier.cpp.o -c /15-445/bustub-master/tools/terrier_bench/terrier.cpp",
+  "file": "/15-445/bustub-master/tools/terrier_bench/terrier.cpp"
+}
+]
