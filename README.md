@@ -6,7 +6,6 @@
 
 -----------------
 
-[![Build Status](https://github.com/cmu-db/bustub/actions/workflows/cmake.yml/badge.svg)](https://github.com/cmu-db/bustub/actions/workflows/cmake.yml)
 
 
 ## Build构建
