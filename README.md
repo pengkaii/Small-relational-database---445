@@ -1,12 +1,5 @@
 # 基于C++的CMU-15445关系型数据库
 （线上测试全过）
------------------
-
-<img src="logo/bustub-whiteborder.svg" alt="BusTub Logo" height="200">
-
------------------
-
-
 
 ## Build构建
 
